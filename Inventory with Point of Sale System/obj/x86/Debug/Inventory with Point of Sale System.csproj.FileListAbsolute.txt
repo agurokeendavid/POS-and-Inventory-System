@@ -1,0 +1,74 @@
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.exe
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.pdb
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.exe
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.pdb
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.csprojResolveAssemblyReference.cache
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAddEditProduct.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAdvertisement.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAdvertisementAdd.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmInOut.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmProdIn.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmReports.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmLogIn.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmMain.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmSales.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmInventory.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.Properties.Resources.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.csproj.GenerateResource.Cache
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\RdlCompile.cache
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\RdlCompile.compiled
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.exe.config
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmPrintSalesReport.resources
+d:\Users\client\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmPrintQuantity.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.exe.config
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.exe
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.pdb
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.exe
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.pdb
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.csprojResolveAssemblyReference.cache
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAddEditProduct.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAdvertisement.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAdvertisementAdd.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmInOut.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmPrintQuantity.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmPrintSalesReport.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmProdIn.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmReports.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmLogIn.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmMain.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmSales.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmInventory.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.Properties.Resources.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.csproj.GenerateResource.Cache
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\RdlCompile.cache
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\RdlCompile.compiled
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmMonitorInventory.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAccounts.resources
+D:\Users\client\Documents\Visual Studio 2010\Projects\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAddEditAcct.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.exe.config
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.exe
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.pdb
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.exe
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\bin\Debug\Inventory with Point of Sale System.pdb
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAccounts.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAddEditAcct.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAddEditProduct.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAdvertisement.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmAdvertisementAdd.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmInOut.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmMonitorInventory.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmPrintQuantity.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmPrintSalesReport.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmProdIn.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmReports.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmLogIn.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmMain.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmSales.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmInventory.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.Properties.Resources.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory with Point of Sale System.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\RdlCompile.cache
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmGraphics.resources
+C:\Users\User\Desktop\Inventory with Point of Sale System\Inventory with Point of Sale System\obj\x86\Debug\Inventory_with_Point_of_Sale_System.frmSettings.resources
